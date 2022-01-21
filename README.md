@@ -1,4 +1,4 @@
-Hello Guys Myself Amit Bhosale a Full Stack Web Developer 
+Hello Guys :wave: Myself Amit Bhosale a Full Stack Web Developer 
 
 Some of Skills Include:
 1. Django
