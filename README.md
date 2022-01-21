@@ -9,8 +9,6 @@ Some of Skills Include:
 
 Here are some ideas to get you started
 
-- 👋 I'm open to Freelance Projects.
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-                                                                                                                          
+- 👋 I'm open to Freelance Projects.                                                                                      
 - 📫 Contact me on email- bhosaleamit247@gmail.com.
 
