@@ -1,5 +1,6 @@
 Hello Guys Myself Amit Bhosale a Full Stack Web Developer 
-Some of Skills Include :
+
+Some of Skills Include:
 1. Django
 2. Django Rest Framework
 3. React
