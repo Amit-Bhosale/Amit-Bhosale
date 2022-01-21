@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Bhosale</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-- 💬 Ask me about **Django,Rest Frameworks, React**
+- 💬 Ask me anything about **Django, Rest Frameworks, React**
 
 - 📫 How to reach me **bhosaleamit247@gmail.com**
 
