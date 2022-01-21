@@ -10,5 +10,6 @@ Some of Skills Include:
 Here are some ideas to get you started
 
 - 👋 I'm open to Freelance Projects.
+- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 - 📫 Contact me on email- bhosaleamit247@gmail.com.
 
