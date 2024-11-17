@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Amit Bhosale
 
 🎓 **Senior Software Engineer** | 💻 **Expert in Django DRF, LangChain, LLMs, NLP, React, Next.js, and Android Development with React Native**
 
