@@ -48,19 +48,13 @@ I take pride in creating clean, maintainable, and innovative codebases that driv
 - **Collaboration:** Avid contributor to open-source projects and mentoring junior developers.
 - **DevOps:** Proficient in containerization and CI/CD workflows for smooth deployments.
 
----
-
-### 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=stars&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/amit-bhosale-4360161ab/)
-- **Email:** [your.email@example.com](mailto:bhosaleamit247@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/amit-bhosale-4360161ab/)
+- [**Email**](mailto:bhosaleamit247@gmail.com)
 
 ---
 
