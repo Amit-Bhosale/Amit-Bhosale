@@ -18,7 +18,7 @@ Technical Lead at a software lab in Bangalore. I build backend systems that hold
 ### Right now
 
 - Learning **Go** and **Terraform** the only way that sticks for me: rebuilding things I already understand in them.
-- Writing up [**architecture decision records**](https://github.com/Amit-Bhosale/architecture-decisions/) from systems I've shipped — the reasoning and trade-offs, minus anything proprietary. Repo coming here soon; that sentence is public so I have to do it.
+- Writing up [**architecture decision records**](https://github.com/Amit-Bhosale/architecture-decisions/) from systems I've shipped — the reasoning and trade-offs, minus anything proprietary.
 
 ### Reach me
 
