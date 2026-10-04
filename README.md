@@ -13,7 +13,7 @@ Technical Lead at a software lab in Bangalore. I build backend systems that hold
 
 ### Tools I reach for
 
-`Python` `Django` `FastAPI` `Falcon` `Go`· `Kafka` `RabbitMQ` `Redis` `Celery` · `PostgreSQL` `MongoDB` `ClickHouse` `Debezium` · `Kubernetes` `Docker` `AWS` · `LangChain` `LangGraph` `Temporal` `MCP` · `React` `React Native` `Next.js`
+`Python` `Django` `FastAPI` `Falcon` `Go`· `Kafka` `Redis` `Celery` `RabbitMQ` · `PostgreSQL` `MongoDB` `ClickHouse` `Debezium` · `Kubernetes` `Docker` `AWS` · `LangChain` `LangGraph` `Temporal` `MCP` · `React` `React Native` `Next.js`
 
 ### Right now
 
