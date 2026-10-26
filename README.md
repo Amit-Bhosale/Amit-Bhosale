@@ -4,7 +4,7 @@ Technical Lead at a software lab in Bangalore. I build backend systems that hold
 
 ### What I actually work on
 
-- **Scaling** — took a Python messaging platform from 150 to 5,000+ TPS, then moved the whole stack to Kubernetes on AWS. Kafka, RabbitMQ and Redis underneath, provisioned for ~20M messages a day across WhatsApp, RCS and SMS.
+- **Scaling** — took a Python messaging platform from 300 to 10,000+ TPS, then moved the whole stack to Kubernetes on AWS. Kafka, RabbitMQ and Redis underneath, provisioned for ~20M messages a day across WhatsApp, RCS and SMS.
 - **AI agents** — a WhatsApp agent built on LangGraph that generates and publishes social media content. Temporal handles the retries, because naive retries on long LLM workflows leave work half-done.
 - **Learning platforms** — a multi-tenant LMS I started on as a junior engineer in 2022 and later led to delivery for a large enterprise client. It's still live and maintained in house, so I've spent four years living with my own early decisions.
 - **Multi-tenant SaaS** — platforms where one auth service handles identity but every tenant gets its own isolated database. Built the routing layer from scratch; no cross-tenant leaks by design.
